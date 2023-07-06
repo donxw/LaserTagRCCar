@@ -34,7 +34,7 @@ Remote control car and joystick wireless controller with a display showing life 
 ### Car
 #### Assemble Chassis
 ![image](https://github.com/donxw/LaserTagRCCar/assets/31633408/79f4feb3-6f31-416d-b56f-fd053e646fe4)
-![image](https://github.com/donxw/LaserTagRCCar/assets/31633408/61f71f9a-46d5-43ff-8421-03bee1a04d63)
+![image](https://github.com/donxw/LaserTagRCCar/assets/31633408/af7678ca-64b6-4249-8c18-de202f3bc0e8)
 ![image](https://github.com/donxw/LaserTagRCCar/assets/31633408/2fb21c9e-f60c-4e4b-92f6-062df35f97b7)
 
 #### Assemble Body
