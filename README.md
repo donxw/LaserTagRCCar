@@ -27,7 +27,7 @@ Remote control car and joystick wireless controller with a display showing life 
 * 3D printed parts
 * TTGO T-Display ESP32 Board
 * Joystick (https://www.mouser.com/ProductDetail/611-THB001P)
-* 350 mAH Lipo battery
+* 380 mAH Lipo battery
 * Slide switch (https://www.aliexpress.us/item/2251832535125782.html?spm=a2g0o.productlist.main.13.442b586dJ7hWyj&algo_pvid=bee75389-0b26-42fb-8bb7-ce1bfa27d7a0&algo_exp_id=bee75389-0b26-42fb-8bb7-ce1bfa27d7a0-6&pdp_npi=3%40dis%21USD%211.45%211.45%21%21%211.45%21%21%40211bea0816886811639263773d07c5%2161208924650%21sea%21US%21950932793&curPageLogUid=bkxjtxJb6tvA)
 
 ## Assembly
