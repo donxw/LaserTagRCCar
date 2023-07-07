@@ -43,11 +43,17 @@ Remote control car and joystick wireless controller with a display showing life 
 #### Car Wiring
 ![Schematic](https://github.com/donxw/LaserTagRCCar/assets/31633408/0395bd82-0c10-4ed3-b41e-0046131874ad)
 ![NeopixelLEDPinOut](https://github.com/donxw/LaserTagRCCar/assets/31633408/8b121850-3834-4be7-a6ce-24b9217479a4)
+![CarWiring](https://github.com/donxw/LaserTagRCCar/assets/31633408/39968a68-8d50-41bf-b99f-6f536df59da6)
+
 
 ### Remote Control
 
-#### Remote Control Wiring
+#### Assemble Remote Control
+![AssembleRemote](https://github.com/donxw/LaserTagRCCar/assets/31633408/7b3fcec2-8144-4f4d-8e18-9568a467a4a9)
 
+#### Remote Control Wiring
+![RemoteControlSchematic](https://github.com/donxw/LaserTagRCCar/assets/31633408/3a873c28-8bed-442e-b47b-2344d01ab724)
+![16_WireRCParts](https://github.com/donxw/LaserTagRCCar/assets/31633408/58ca24b4-1c06-4ce2-84c9-5fed1ec5fefe)
 
 Slide Switch 
 ![SlideSwitch-AliExpress](https://github.com/donxw/LaserTagRCCar/assets/31633408/a27ece8d-472b-4e03-a1c9-76e23f43cc1a)
