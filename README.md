@@ -73,7 +73,8 @@ Attach the front wheels, taking care to be sure the wheels are aligned correctly
 ![AssembleRemote](https://github.com/donxw/LaserTagRCCar/assets/31633408/7b3fcec2-8144-4f4d-8e18-9568a467a4a9)
 
 ### Final car and remote control appearance 
-![Complete](https://github.com/donxw/LaserTagRCCar/assets/31633408/5f7dac71-c703-43bb-8ee0-f414c3d0c237)
+![Complete](https://github.com/donxw/LaserTagRCCar/assets/31633408/341ffcf6-d59d-459a-a089-c7980ab5dd3f)
+
 
 
 
