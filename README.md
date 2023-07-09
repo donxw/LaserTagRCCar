@@ -45,6 +45,8 @@ Remote control car and joystick wireless controller with a display showing life 
 ![NeopixelLEDPinOut](https://github.com/donxw/LaserTagRCCar/assets/31633408/8b121850-3834-4be7-a6ce-24b9217479a4)
 ![CarWiring](https://github.com/donxw/LaserTagRCCar/assets/31633408/39968a68-8d50-41bf-b99f-6f536df59da6)
 
+#### Car Code
+Before flasing the code to the car, the MAC of the ESP32 dev board in the Remote Control unit needs to be obtained and put into the ESP8266 arduino code for the car.  This can be done by uploading the code to the remote control unit ESP32 and watching the Serial Port for the MAC.  Copy this, and put the ESP32 address into the code for the ESP8266 of the car.  Now flash the car code and watch the Serial Port for the ESP8266 MAC.  Copy this and put it into the remote control unit ESP32 code, then re-flash the ESP32.
 
 ### Remote Control
 
