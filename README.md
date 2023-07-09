@@ -37,19 +37,19 @@ Remote control car and joystick wireless controller with a display showing life 
 ![AssembleChassis_3](https://github.com/donxw/LaserTagRCCar/assets/31633408/7ec46d23-d3d4-49d3-b172-5147fc86064f)
 
 ### Assemble Body
-![image](https://github.com/donxw/LaserTagRCCar/assets/31633408/3b821f34-f054-46cb-b885-a030488168ec)
+![AssembleBody](https://github.com/donxw/LaserTagRCCar/assets/31633408/5f529553-c608-4f4e-a3b3-4f63f9abf97b)
 
 ### Car Wiring
-![Schematic](https://github.com/donxw/LaserTagRCCar/assets/31633408/0395bd82-0c10-4ed3-b41e-0046131874ad)
-![NeopixelLEDPinOut](https://github.com/donxw/LaserTagRCCar/assets/31633408/8b121850-3834-4be7-a6ce-24b9217479a4)
-![CarWiring](https://github.com/donxw/LaserTagRCCar/assets/31633408/39968a68-8d50-41bf-b99f-6f536df59da6)
+![Schematic](https://github.com/donxw/LaserTagRCCar/assets/31633408/2f2e11e1-d49d-4177-afff-c6210cf459d3)
+![NeopixelLEDPinOut](https://github.com/donxw/LaserTagRCCar/assets/31633408/f2195e55-ada4-4983-a5e6-01906b28ae06)
+![CarWiring](https://github.com/donxw/LaserTagRCCar/assets/31633408/6c48de2f-ebf4-47c2-979c-226c309b613a)
 
 ### Remote Control Wiring
-![RemoteControlSchematic](https://github.com/donxw/LaserTagRCCar/assets/31633408/3a873c28-8bed-442e-b47b-2344d01ab724)
-![16_WireRCParts](https://github.com/donxw/LaserTagRCCar/assets/31633408/58ca24b4-1c06-4ce2-84c9-5fed1ec5fefe)
+![RemoteControlSchematic](https://github.com/donxw/LaserTagRCCar/assets/31633408/8253718d-3fb9-40db-ae82-d5cde67e85e1)
+![16_WireRCParts](https://github.com/donxw/LaserTagRCCar/assets/31633408/fc51fd4f-9b69-40e8-838b-3405f47cccdc)
 
 Slide Switch 
-![SlideSwitch-AliExpress](https://github.com/donxw/LaserTagRCCar/assets/31633408/a27ece8d-472b-4e03-a1c9-76e23f43cc1a)
+![SlideSwitch-AliExpress](https://github.com/donxw/LaserTagRCCar/assets/31633408/85c09965-0365-4f19-a41a-b2f01f3f8d6e)
 
 ### Car Code
 Before flasing the code to the car, the MAC of the ESP32 dev board in the Remote Control unit needs to be obtained and put into the ESP8266 arduino code for the car.  This can be done by uploading the code to the remote control unit ESP32 and watching the Serial Port for the MAC.  Copy this, and put the ESP32 address into the code for the ESP8266 of the car.  Now flash the car code and watch the Serial Port for the ESP8266 MAC.  Copy this and put it into the remote control unit ESP32 code, then re-flash the ESP32.
@@ -61,16 +61,16 @@ Test to be sure the remote control and car communicate to each other before fina
 
 ### Complete Car Assembly
 After flashing the code to the car, place the body onto the chassis taking care to tuck wiring in without getting under the on-off push button.  Flip the car over to insert fasteners and the 9V usb rechargable battery.
-![AttachBodyandBattery](https://github.com/donxw/LaserTagRCCar/assets/31633408/1a7b01af-68c7-44bc-afa8-15e465527516)
+![AttachBodyandBattery](https://github.com/donxw/LaserTagRCCar/assets/31633408/1476a580-3f6f-4ea2-8026-dc15489eff86)
 
 To assemble the front wheels, locate the smaller set of wheels and 2x M2 x 16 screws.  Take the screw and push them through the wheel holes to clean out the thin layer of support material left from printing.  Pushing the screw in from the reverse direction works fine.  Or use a 3mm drill bit and clean out the hole with a hand drill.  Once cleaned put a small drop of oil on the screw and push it in the correct direction - see image 3.
-![PrepIdleWheels](https://github.com/donxw/LaserTagRCCar/assets/31633408/3c83edad-6604-4e06-8e0a-6bcffcc50f69)
+![PrepIdleWheels](https://github.com/donxw/LaserTagRCCar/assets/31633408/be86b1f6-f8ad-4977-a77f-280669177355)
 
 Attach the front wheels, taking care to be sure the wheels are aligned correctly.  Attache the rear wheels to the motor by aligning the flat side of the motor shaft to the flat part of the hole in the wheel.  Stretch the 75mm x 3mm o-ring over the wheels into the v-groove.  Snap on the hood scoop.
-![Wheels_Oring_Scoop](https://github.com/donxw/LaserTagRCCar/assets/31633408/072ac189-15bc-4ba7-a984-be9f007a32af)
+![Wheels_Oring_Scoop](https://github.com/donxw/LaserTagRCCar/assets/31633408/f8ff86e1-3f1d-46d7-90f6-55d6aa9b19bb)
 
 #### Assemble Remote Control
-![AssembleRemote](https://github.com/donxw/LaserTagRCCar/assets/31633408/7b3fcec2-8144-4f4d-8e18-9568a467a4a9)
+![AssembleRemote](https://github.com/donxw/LaserTagRCCar/assets/31633408/a21349a7-2f35-4e37-8d58-2281b9cc9007)
 
 ### Final car and remote control appearance 
 ![Complete](https://github.com/donxw/LaserTagRCCar/assets/31633408/341ffcf6-d59d-459a-a089-c7980ab5dd3f)
