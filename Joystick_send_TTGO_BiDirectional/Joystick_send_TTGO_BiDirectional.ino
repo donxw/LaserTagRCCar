@@ -11,8 +11,6 @@ On ESP32:
 These pins do not support analog input when WiFi is in use: 00, 02, 04, 12, 13, 14, 15, 25, 26,
 These ones do: 32, 33, 34, 35, 36, 39, Use one of these last 6 to connect your sensor.
 
-This version receives the laser hit score from the car and shows it on the display
-
 For the TTGO T-Display, use board ESP32 Dev Module
 
 */
@@ -35,11 +33,8 @@ uint16_t bg = TFT_BLACK;
 #include <WiFi.h>
 #include <esp_now.h>
 
-// Tank 98:CD:AC:26:0B:5D
-//uint8_t mac_peer1[] = { 0x98, 0xCD, 0xAC, 0x26, 0x0B, 0x5D };
-// Car 44:17:93:10:FC:82
-//uint8_t mac_peer1[] = { 0x44, 0x17, 0x93, 0x10, 0xFC, 0x82 };
-// Car B 84:CC:A8:9A:EB:BB
+// Sender MAC
+// Car B 84:CC:A8:9A:EB:BB <- get from target car ESP8266 devboard
 uint8_t mac_peer1[] = { 0x84, 0xCC, 0xA8, 0x9A, 0xEB, 0xBB };
 
 esp_now_peer_info_t peer1;
