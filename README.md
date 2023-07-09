@@ -1,7 +1,7 @@
 # LaserTagRCCar
 ESP Now based RC Car and controller with Laser and Photodetector to play Tag
 
-![image](https://github.com/donxw/LaserTagRCCar/assets/31633408/12c061cf-f554-4d35-9a31-0183c41dfc35)
+![CoverShot](https://github.com/donxw/LaserTagRCCar/assets/31633408/ed9588b4-275d-4282-90f4-00b7788a9374)
 
 Remote control car and joystick wireless controller with a display showing life left.  Each car has an LED (replaced the laser for child safety) and a photoresistor to sense a "hit".  The RC Car and controller communicate wirelessly using the ESP-NOW communication link.
 ## Bill of Materials
@@ -32,9 +32,9 @@ Remote control car and joystick wireless controller with a display showing life 
 
 ## Assembly
 ### Assemble Chassis
-![image](https://github.com/donxw/LaserTagRCCar/assets/31633408/79f4feb3-6f31-416d-b56f-fd053e646fe4)
-![image](https://github.com/donxw/LaserTagRCCar/assets/31633408/af7678ca-64b6-4249-8c18-de202f3bc0e8)
-![image](https://github.com/donxw/LaserTagRCCar/assets/31633408/2fb21c9e-f60c-4e4b-92f6-062df35f97b7)
+![AssembleChassis_1](https://github.com/donxw/LaserTagRCCar/assets/31633408/e0393fd0-7d51-4b9b-9516-7a31397fddef)
+![AssembleChassis_2](https://github.com/donxw/LaserTagRCCar/assets/31633408/38259e16-cbf0-4805-a58b-43195cd261bb)
+![AssembleChassis_3](https://github.com/donxw/LaserTagRCCar/assets/31633408/7ec46d23-d3d4-49d3-b172-5147fc86064f)
 
 ### Assemble Body
 ![image](https://github.com/donxw/LaserTagRCCar/assets/31633408/3b821f34-f054-46cb-b885-a030488168ec)
