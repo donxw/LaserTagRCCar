@@ -55,7 +55,8 @@ Slide Switch
 Before flasing the code to the car, the MAC of the ESP32 dev board in the Remote Control unit needs to be obtained and put into the ESP8266 arduino code for the car.  This can be done by uploading the code to the remote control unit ESP32 and watching the Serial Port for the MAC.  Copy this, and put the ESP32 address into the code for the ESP8266 of the car.  Now flash the car code and watch the Serial Port for the ESP8266 MAC.  Copy this and put it into the remote control unit ESP32 code, then re-flash the ESP32.
 
 The car code is titled: "NodeMCUMotorShield_RCCar_Receiver_Laser_BiDir_Photosensor.ino".  Use board NodeMCU 1.0.
-The remote control code is titled:  "Joystick_send_TTGO_BiDirectional.ino"  Use board NodeMCU 1.0.  Also, this code uses the TFT_eSPI library for the TFT so update the User_Setup_Select.h file to uncomment this setup line only: #include <User_Setups/Setup25_TTGO_T_Display.h>.
+
+The remote control code is titled:  "Joystick_send_TTGO_BiDirectional.ino"  Use board ESP32 Dev Module.  This code uses the TFT_eSPI library for the TFT so update the User_Setup_Select.h file to uncomment this setup line only: #include <User_Setups/Setup25_TTGO_T_Display.h>.
 
 Test to be sure the remote control and car communicate to each other before final assembly.
 
