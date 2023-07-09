@@ -15,11 +15,6 @@
     Row closest to CPU = Digital
     Middle Row = 3.3V
     Outside Row = GND
-
-    this version adds bi-directional ESP Now to communicate back the laser hits back to the remote control
-
-    
-
 */
 
 #include <Arduino.h>
@@ -67,9 +62,7 @@ int full_range = 4095;  // full Joystick range from ESP32
 
 //Set up data sender
 
-// Reciever MAC 08:3A:F2:66:57:BC  <- get from the Remote Control CPU
-//uint8_t mac_peer1[] = { 0x08, 0x3A, 0xF2, 0x66, 0x57, 0xBC };
-// Concept B Contoller 08:3A:F2:69:CD:04
+// Concept B Contoller 08:3A:F2:69:CD:04 <- get from the Remote Control CPU
 uint8_t mac_peer1[] = { 0x08, 0x3A, 0xF2, 0x69, 0xCD, 0x04 };
 
 // Must match with the reciever on the remote control unit
