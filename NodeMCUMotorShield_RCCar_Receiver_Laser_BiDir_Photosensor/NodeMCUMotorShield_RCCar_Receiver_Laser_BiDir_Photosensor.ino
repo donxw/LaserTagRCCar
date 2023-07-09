@@ -60,9 +60,8 @@ const int valX_center = 1930;  // from testing the joystick center value
 const int valY_center = 1900;
 int full_range = 4095;  // full Joystick range from ESP32
 
-//Set up data sender
-
-// Concept B Contoller 08:3A:F2:69:CD:04 <- get from the Remote Control CPU
+//Set up MAC to send data to
+// Concept B Contoller 08:3A:F2:69:CD:04 <- get from the Remote Control ESP32 Dev board
 uint8_t mac_peer1[] = { 0x08, 0x3A, 0xF2, 0x69, 0xCD, 0x04 };
 
 // Must match with the reciever on the remote control unit
