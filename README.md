@@ -15,7 +15,7 @@ Remote control car and joystick wireless controller with a display showing life 
 * 1x Clear LED
 * 1x Photoresistor (5506)
 * 1x 20K Resistor
-* 2x 75mm x 3mm O-ring (McMaster-Carr)
+* 2x 73mm x 3mm O-ring (McMaster-Carr)
 * Screws:
   * 1x M2x5
   * 5x M2x6
